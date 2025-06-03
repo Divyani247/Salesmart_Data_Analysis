@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Pipeline](https://github.com/Divyani247/Salesmart_Data_Analysis/blob/main/Salesmart.png)
 
 
 This project is an end-to-end data pipeline that extracts actionable business insights from SalesMart transactional data. It uses Python for data preprocessing and MySQL for querying and analytics.
