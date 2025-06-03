@@ -1,4 +1,3 @@
-
 # SalesMart Data Analysis: End-to-End SQL + Python Project 
 
 ## Project Overview
@@ -131,8 +130,9 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - **Data Source**: Kaggle’s Walmart Sales Dataset
-- **Inspiration**: Walmart’s business case studies on sales and supply chain optimization & https://www.youtube.com/@zero_analyst
-- 
+- **Inspiration**: Walmart’s business case studies on sales and supply chain optimization
+-  https://www.youtube.com/@zero_analyst
+  
 
 ---
 
